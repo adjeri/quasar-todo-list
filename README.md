@@ -1,6 +1,8 @@
 # Quasar App (quasar-todo)
 
-A Quasar application for a todo list
+A simple Quasar application to manage a todo list. 
+
+It is a cross-platform app. With the same codebase, you can build the app for Android, iOS, Mac, Windows.
 
 ## Install the dependencies
 ```bash
